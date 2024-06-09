@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"gorm.io/driver/sqlserver"
-	"gorm.io/gorm"
+	"github.com/wubin1989/gorm"
+	"github.com/wubin1989/sqlserver"
 )
 
 var sqlserverDSN = "sqlserver://gorm:LoremIpsum86@localhost:9930?database=gorm"

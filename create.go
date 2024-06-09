@@ -3,9 +3,9 @@ package sqlserver
 import (
 	"reflect"
 
-	"gorm.io/gorm"
-	"gorm.io/gorm/callbacks"
-	"gorm.io/gorm/clause"
+	"github.com/wubin1989/gorm"
+	"github.com/wubin1989/gorm/callbacks"
+	"github.com/wubin1989/gorm/clause"
 )
 
 func Create(db *gorm.DB) {

@@ -3,7 +3,7 @@ package sqlserver
 import (
 	"github.com/microsoft/go-mssqldb"
 
-	"gorm.io/gorm"
+	"github.com/wubin1989/gorm"
 )
 
 // The error codes to map mssql errors to gorm errors, here is a reference about error codes for mssql https://learn.microsoft.com/en-us/sql/relational-databases/errors-events/database-engine-events-and-errors?view=sql-server-ver16

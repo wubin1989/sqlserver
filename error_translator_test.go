@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"gorm.io/gorm"
+	"github.com/wubin1989/gorm"
 
 	"github.com/microsoft/go-mssqldb"
 )
