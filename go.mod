@@ -4,5 +4,5 @@ go 1.14
 
 require (
 	github.com/microsoft/go-mssqldb v1.7.0
-	github.com/wubin1989/gorm v0.0.1
+	github.com/wubin1989/gorm v0.0.3
 )
